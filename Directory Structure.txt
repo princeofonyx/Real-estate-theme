@@ -1,0 +1,13 @@
+- real-estate-theme/
+  - style.css
+  - functions.php
+  - header.php
+  - footer.php
+  - index.php
+  - single-property.php
+  - page-property-listings.php
+  - template-parts/
+    - property-listing.php
+  - assets/
+    - css/
+    - js/
